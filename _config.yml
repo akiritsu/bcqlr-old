@@ -1,7 +1,7 @@
 ## Settings
 title: bcqlr.com
 owner: "DeerRIDER"
-url: "bcqlr.com"
+# url: "bcqlr.com"
 baseurl: ""
 # baseurl: "/pRoJEct-NeGYa"
 permalink: /:title/
