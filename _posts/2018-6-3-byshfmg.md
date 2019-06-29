@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 白羊树和伐木工
-category: 骑鹿杂言
+category: 画中世界
 author: 骑鹿人
 finished: ture
 excerpt: 我要砍哪棵树来的？树去哪里了？白羊去哪里了？草去哪里了？被白羊吃的草吃到哪里去了？白羊排泄的粪便到哪里去了？我的电锯哪里去了？我的插线板哪里去了？我的电磁炉哪里去了？

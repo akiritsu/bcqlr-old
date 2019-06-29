@@ -52,22 +52,18 @@ permalink: /rsm
 
 <p class="encrypted">D4yzSUvmZruQSLoiid5AfAU4t1OnKlDzKOV3gmTgbaWCde0faOyE7WdJWtXVQ2r9DD117BPZ3pBiRFKAI6rSzaw9IF88WmuLw2tyKtnS6fA8M4LUG4a8rYxSkgVDx7YQ==</p>
 
-
 ## 项目
-- 2013 年 9 月：基于 Openstack 的云实验室，项目组长，主导 Openstack 的部署及实验室工具开发
-- 2014 年 1 月：下一代学生信息系统，项目组长，主导基于约束的排课系统的 AI 算法研究
-- 2017 年 7 月：Hybrid ROBBD Manipulation Algorithms and It's Application in Groundness Analyzer
-- 2018 年 8 月：cslearner.cn，个人项目，计算机科学自学中文社区
-- 2019 年 4 月：pRoJEct-NeGYa，个人项目，Jekyll个人主页模板
+
 - 2019 年 6 月：pRoJEct-AcKWa，约束知识学习AI药物分子设计系统（一期，共四期）
 - 2019 年 6 月：pRoJEct-ZeXIv，个人项目，计算机科学及数学笔记工具（开发中）
- 
+- 2019 年 4 月：pRoJEct-NeGYa，个人项目，Jekyll个人主页模板
+- 2018 年 8 月：cslearner.cn，个人项目，计算机科学自学中文社区
+- 2017 年 7 月：Hybrid ROBBD Manipulation Algorithms and It's Application in Groundness Analyzer
+- 2014 年 1 月：下一代学生信息系统，项目组长，主导基于约束的排课系统的 AI 算法研究
+- 2013 年 9 月：基于 Openstack 的云实验室，项目组长，主导 Openstack 的部署及实验室工具开发
+
 ## 自评
 
 - 热爱科学，自初中二年级起自学编程、游戏开发、理论物理学
-
 - 生性淡泊名利，喜追求真理至道，挑战复杂的事情以获取愉悦的体验
-
-- 感不感兴趣对我来说比什么都重要，可以说是我人生的全部
-
- 
+- 喜欢为热爱的工作付出时间、精力，每天保持学习
