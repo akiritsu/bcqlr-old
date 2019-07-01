@@ -15,16 +15,15 @@ permalink: /
 
 ## 个人信息
 
+<img src="{{site.assets_path}}/img/qlr-logo5.png" align="right" width="95px" hspace="5" vspace="5">
+
 骑鹿人（DeerRIDER），字崷枝，别号末元狂士。AI专家，自由学者，严肃作家。
 <p class="encrypted">+dcct/d4uC2eBjbRHTdJpwPxKe/3oBeu7TWyst9tQ1azyOTZXIiTtnym4fcjs586rSTmY7ELpg0aVZdJkw7piPoBoFg9+d11pa7oeBcL/PyDw+LDL/+dEwXtDY6a/QXlqmK2nZkfwAxbFkxBcaH0jbM/PHm3zDiifgjrFnOmSAOvO/Uj7PG7YwYS9OoXP2GdhxTn2V</p>
-
-<img src="{{site.assets_path}}/img/qlr-logo5.png" align="right" width="120" hspace="5" vspace="5">
-
 
 文学作品有《骑鹿杂言》，《箱守哲也》等系列，其中《骑鹿杂言》正在筹备出版。
 
 AI计算方法学专家，自由学者，主要研究小样本学习，约束知识学习等领域。兴趣领域为计算机语言理论，自动定理证明，数理逻辑，形式语义学等。
 
-至爱杨沐依（Cathugger），携手数寒暑余。好藏书。好饮茶。好治印。好东洋武士刀。好刀塔。好风景。
+至爱杨沐依（Cathugger），携手数寒暑余。好藏书。好饮茶。好二胡曲。好治印。好东洋武士刀。好刀塔。好风景。
 
-人生格言：“感不感兴趣对我来说比什么都重要，可以说是我人生的全部。”
+“感不感兴趣对我来说比什么都重要，可以说是我人生的全部。”
