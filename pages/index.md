@@ -18,7 +18,8 @@ permalink: /
 骑鹿人（DeerRIDER），字崷枝，别号末元狂士。AI专家，自由学者，严肃作家。
 <p class="encrypted">+dcct/d4uC2eBjbRHTdJpwPxKe/3oBeu7TWyst9tQ1azyOTZXIiTtnym4fcjs586rSTmY7ELpg0aVZdJkw7piPoBoFg9+d11pa7oeBcL/PyDw+LDL/+dEwXtDY6a/QXlqmK2nZkfwAxbFkxBcaH0jbM/PHm3zDiifgjrFnOmSAOvO/Uj7PG7YwYS9OoXP2GdhxTn2V</p>
 
-![logo]({{site.url}}{{site.baseurl}}{{site.assets}}/img/qlr-logo5.png)
+<img src="{{site.assets_path}}/img/qlr-logo5.png" align="right" width="120" hspace="5" vspace="5">
+
 
 文学作品有《骑鹿杂言》，《箱守哲也》等系列，其中《骑鹿杂言》正在筹备出版。
 
