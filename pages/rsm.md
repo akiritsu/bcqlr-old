@@ -13,7 +13,7 @@ permalink: /rsm
 
 ## 个人信息
 
-骑鹿人（DeerRIDER），AI计算方法学专家，自由学者，严肃作家。作品《骑鹿杂言》筹备出版中。
+骑鹿人（DeerRIDER），字崷枝，别号末元狂士。AI计算方法学专家，自由学者，严肃作家。作品《骑鹿杂言》筹备出版中。
 <p class="encrypted">KZWSAnGxzGKmFghXyowRvQDCjCSPjUP9NGPSO3ekRS/E52YlaBJ+jFjnhi9u0ty8pUt8CTtwqRmjtJUfjPlJWADpxbBDiTqjz5dir0Cvc2YIvb5VggI41uL+zb3g==</p>
 - E-mail: akiritsu@outlook.com
 - Gitlab: akiritsu
