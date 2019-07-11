@@ -104,7 +104,7 @@ author: 骑鹿人
 
 ## 4.技能优先级（按胜率排序）
 
-[查看技能胜率排名的网站：dota3.mocyx.com}(http://dota3.mocyx.com/index.php/main/omgHome)
+[查看技能胜率排名的网站：dota3.mocyx.com](http://dota3.mocyx.com/index.php/main/omgHome)
 
 ### Tier 0：一手必抢
 绝冥再生 幽冥剧毒 缩地 折射 衰退光环 掘地穿刺 混乱之祭 余震 刀光谍影 不稳定电流 风行 严寒烧灼 回光返照 竭心光环 复仇光环 冰封禁制 化学狂暴 猴子猴孙（远程） 能量转移（远程敏捷） 
