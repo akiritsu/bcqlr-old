@@ -13,7 +13,7 @@
         {% for post in site.posts %}
           {% if page.finished != false %}
         </tr>
-        <td class="td_title"><a href="{{post.url}}">{{post.title}}</a></td>
+        <td class="td_title"><a href="{{site.url}}{{site.baseurl}}{{post.url}}">{{post.title}}</a></td>
         <td class="td_date">{{post.date | date: "%b %d, %y"}}</td>
         <td class="td_category">{{post.category}}</td>
         </tr>
@@ -32,7 +32,7 @@
 <table id="t_{{ cate_name | slugzie }}">
     <thead>
         <tr>
-        <th id="cate_name"><i class="fa fa-tags"></i>{{ cate_name }}</th>
+        <th id="cate_name"><i class="fa fa-tags"></i>{{cate_name}}</th>
         <th></th>  
         </tr>
     </thead>
@@ -40,7 +40,7 @@
     {% for post in cate[1] %}
     <tr>
       <td class="td_title">
-        <a href="{{ post.url }}">{{ post.title }}</a>
+        <a href="{{site.url}}{{site.baseurl}}{{post.url}}">{{post.title}}</a>
       </td>
       <td class="td_date">{{ post.date | date: "%b %d, %y" }}</td>
     </tr>
