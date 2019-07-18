@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 刀塔2 OMG 技能选择攻略
-category: 骑鹿杂言
+category: 游戏攻略
 finished: false
 author: 骑鹿人
 ---
