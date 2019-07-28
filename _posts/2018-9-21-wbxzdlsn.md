@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 我把心脏丢了十年
-category: 画中世界
+category: 骑鹿杂言
 author: 骑鹿人
 finished: ture
 excerpt: 我把心脏丢了十年/我用破布塞满了胸膛/红色的鲜血汩汩流出/黑色的瞳孔黯黯无光
