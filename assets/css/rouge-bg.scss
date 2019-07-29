@@ -23,7 +23,13 @@ $white-space: #c4ffcc;
 .highlight table td { padding: 5px; }
 .highlight table pre { margin: 0; }
 .highlight {
-  word-wrap: break-word;
+  word-wrap: auto;
+  word-break: break-all;
+  overflow: hidden;
+  white-space: pre-wrap;
+  white-space: -moz-pre-wrap;
+  white-space: -pre-wrap;
+  white-space: -o-pre-wrap;
   color: $text-primary;
   background-color: $background;
 }
