@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 草稿箱
+permalink: /drafts
 ---
 
 # 箱守哲也

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 随手挥剑目录
+permalink: /sshj
 ---
 
 正在创作祸青衣篇。

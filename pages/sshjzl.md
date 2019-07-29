@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 随手挥剑写作资料
+permalink: /sshjzl
 ---
 
 ## 资料总目
