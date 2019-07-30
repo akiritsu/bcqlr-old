@@ -2,6 +2,7 @@
 layout: post
 title: 故事新编
 author: 鲁迅
+permalink: /gsxb
 ---
 
 ## 序言
