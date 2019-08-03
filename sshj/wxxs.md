@@ -1,10 +1,8 @@
 ---
 layout: post
-title: 随手挥剑写作资料
-permalink: /sshjzl
+title: 古今武侠小说佳作通览
+permalink: 
 ---
-
-## 资料总目
 
 ## 古代武侠小说
 

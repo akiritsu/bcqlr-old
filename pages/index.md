@@ -26,4 +26,4 @@ permalink: /
 * “感不感兴趣对我来说比什么都重要，可以说是我人生的全部。”
 
 ## 作品目录
-[随手挥剑]({{site.url}}/sshj/) [骑鹿杂言]({{site.url}}/qlzy/) [画中世界]({{site.url}}/hzsj/)
+[随手挥剑]({{site.url}}/sshj)
