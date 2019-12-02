@@ -1,0 +1,70 @@
+I"�	<p>Personal knowledge management (PKM) is a collection of processes that a person uses to gather, classify, store, search, retrieve and share knowledge in their daily activities and the way in which these processes support work activities. A typical PKM system conprises 4 conponents: Real-time editor, knowledge harverster, Content manager, productivity tools.</p>
+
+<p>Our work is aiming to provide a concise, one-stop, and scalable tools for researchers and practitioners particuly in fields like computer science and mathematics.</p>
+
+<h2 id="features">Features</h2>
+
+<ol>
+  <li>Editing:
+    <ol>
+      <li>Editor</li>
+      <li>Broswer</li>
+      <li>Special content support</li>
+    </ol>
+  </li>
+  <li>File storage and management:
+    <ol>
+      <li>Local repos</li>
+      <li>Remote repos</li>
+      <li>Security</li>
+    </ol>
+  </li>
+  <li>Sharing:
+    <ol>
+      <li>Publishing
+        <ul>
+          <li>Generate websites by jekyll</li>
+        </ul>
+      </li>
+      <li>co-working</li>
+    </ol>
+  </li>
+</ol>
+
+<p>Our work is planned to be supported as:</p>
+<ul>
+  <li>A website template</li>
+  <li>An Online editor</li>
+  <li>An Emacs plug-in</li>
+</ul>
+
+<h2 id="layouts">Layouts</h2>
+
+<ol>
+  <li>Editor(Broswer)</li>
+  <li>File manager</li>
+  <li>Outline viewer</li>
+  <li>Code Interpreter</li>
+  <li>Todo &amp; Highlight</li>
+</ol>
+
+<h2 id="highligted-application">Highligted application</h2>
+
+<ol>
+  <li><strong>shimo.im</strong>. Shimo is an online multi-author document editor.</li>
+  <li><strong>Emacs org-mode</strong>. Org mode is for keeping notes, maintaining TODO lists, planning projects, and authoring documents with a fast and effective plain-text system.</li>
+  <li><strong>Evernote</strong>. Evernote is an application software designed for note taking, organizing, task lists, and archiving. The app allows users to create notes, which can be formatted text, web pages or web page excerpts, photographs, voice memos, or handwritten “ink” notes. Notes can also have file attachments, and can be sorted into notebooks, tagged, annotated, edited, searched, and exported.</li>
+</ol>
+
+<h2 id="3-rd-party-support">3-rd party support</h2>
+
+<ol>
+  <li>Math formulas: MathJax API</li>
+  <li>Formula recognition: Mathpix API</li>
+  <li>Code highlight: rouge</li>
+  <li>Markdown interpreter: TODO</li>
+  <li>PDF conveter: TODO</li>
+  <li>html converter: jekyll</li>
+  <li>Code Intepreter: repl.it</li>
+</ol>
+:ET
