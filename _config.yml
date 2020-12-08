@@ -43,17 +43,8 @@ defaults:
       footer              : true        # whether show footer by default
 
 # 5. Social Media Accounts
-email               : "just-test" 
-linkedin            : 
-github              : "just-test" 
-gitlab              : 
-website             : 
-twitter             : "just-test"
-facebook            : "just-test"
-instagram           : 
-youtube             : "just-test"
-steam               : "just-test"
-weibo               :
+email               : deerrider666@outlook.com
+github              : akiritsu
       
 # 6. Where things are
 source              : .
