@@ -14,13 +14,13 @@ h1 {
 h2 {
   font-size: $font-size-h2;
   font-weight: lighter;
-  margin: 1.8em 0 0.6em 0;
+  margin: 1.8em 0 0.8em 0;
   border-bottom: $thin-border;
 }
 h3 {
   font-size: $font-size-h3;
   font-weight: lighter;
-  margin: 1.8em 0 0.6em 0;
+  margin: 1.8em 0 0.7em 0;
 }
 h4 {
   font-size: $font-size-h4;
@@ -107,18 +107,18 @@ table {
   border-spacing: 2px;
   line-height: 1;
   thead {
-    border-top: $secondary-border;
-    border-bottom: $thin-border;
-    th {
-      padding: 10px 10px;
-      font-size: $font-bigger;
-    }
+border-top: $secondary-border;
+border-bottom: $thin-border;
+th {
+  padding: 10px 10px;
+  font-size: $font-bigger;
+}
   }
   tbody {
-    td {
-      padding: 8px 10px;
-    }
-    border-bottom: $secondary-border;
+td {
+  padding: 8px 10px;
+}
+border-bottom: $secondary-border;
   }
 }
 code {
@@ -129,13 +129,13 @@ article .language-plaintext {
   font-size: 90%;
   color: $color-secondary;
   text-shadow: -0.5px -0.5px 0 rgb(194, 202, 157), 0.5px 0.5px 0 #333,
-    0.5px 0.5px 0 #444;
+0.5px 0.5px 0 #444;
 }
 article {
   a {
-    padding: 0 0.3em;
+padding: 0 0.3em;
   }
   a:hover {
-    font-weight: bold;
+font-weight: bold;
   }
 }

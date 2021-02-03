@@ -2,22 +2,22 @@
   <!-- author -->
   {% if page.author %}
   <span>
-    <i class="fa fa-user-secret"></i>
-    {{ page.author }}
+<i class="fa fa-user-secret"></i>
+{{ page.author }}
   </span>
   {% endif %}
   <!-- date -->
   {% if page.show_date %}
   <span>
-    <i class="fa fa-calendar"></i>
-    {{ page.date | date: "%b %d, %Y" }}
+<i class="fa fa-calendar"></i>
+{{ page.date | date: "%b %d, %Y" }}
   </span>
   {% endif %}
   <!-- category -->
   {% if page.category %}
   <span>
-    <i class="fa fa-archive"></i>
-    {{ page.category }}
+<i class="fa fa-archive"></i>
+{{ page.category }}
   </span>
   {% endif %}
 </div>

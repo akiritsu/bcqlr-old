@@ -30,14 +30,14 @@
   border: $secondary-border;
   border-top: none;
   article {
-    margin: 0;
-    padding: 10px 17px 17px 17px;
-    text-align: left !important;
-    min-height: 90%; 
+margin: 0;
+padding: 10px 17px 17px 17px;
+text-align: left !important;
+min-height: 90%; 
   }
   .encrypted {
-    color: rgba($color-warning, 0.9);
-    word-break: break-all;
+color: rgba($color-warning, 0.9);
+word-break: break-all;
   }
 }
 // used to toggle absence of elements
@@ -48,28 +48,28 @@
 // screen auto-adjustment
 @media screen and (max-width: 800px) {
   .page .container {
-    width: 100% !important; // to avoid the affect of applyment of toggle_maximize()
-    height: 100% !important;
-    top: 0 !important;
-    left: 0 !important;
-    margin: 0;
-    border: $thick-border;
-    background-color: rgba($color-postbg, 0.7);
+width: 100% !important; // to avoid the affect of applyment of toggle_maximize()
+height: 100% !important;
+top: 0 !important;
+left: 0 !important;
+margin: 0;
+border: $thick-border;
+background-color: rgba($color-postbg, 0.7);
   }
   .page .container .div_article {
-    border: none;
+border: none;
   }
 }
 @media screen and (max-width: 800px) and (min-width: 400px) {
   .page .container .div_article #main_atcl {
-    padding: 12px 17px 17px 17px;
+padding: 12px 17px 17px 17px;
   }  
 }
 @media screen and (max-width: 400px) {
   .page .container {
-    border: $medium-border;
+border: $medium-border;
   }
   .page .container .div_article #main_atcl {
-    padding: 0px 5px 5px 5px ;
+padding: 0px 5px 5px 5px ;
   }
 }
